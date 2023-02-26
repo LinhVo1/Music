@@ -1,0 +1,5 @@
+python cv-run_save_vgg16.py -t tr -r te -e 5 -k 0
+python cv-run_save_vgg16.py -t tr -r te -e 5 -k 4
+
+python cv-run_save_vgg16.py -t data-ex/tr -r data-ex/te -e 5 -k 3
+python cv-run_save_vgg16.py -t data-ex/tr -r data-ex/te -e 5 -k 0
